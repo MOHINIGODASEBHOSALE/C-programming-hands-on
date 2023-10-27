@@ -14,8 +14,8 @@ output=
 //  Input :                     Integer,Interger
 //  Output :                  void
 //  Description :        It is used to display # pattern.
-//  Date :                       19/03/2021
-//  Author :                  Sanket Narayan Bhosale
+//  Date :                       19/03/2023
+//  Author :                  Mohini Bhimaro Bhosale
 //
 /////////////////////////////////////////////////////////////
 void Pattern(int iRow,int iCol)
