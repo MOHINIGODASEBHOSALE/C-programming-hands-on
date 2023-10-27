@@ -7,8 +7,8 @@
 //  Input :              Integer
 //  Output :           void
 //  Description :      It is used to Display table of given number
-//  Date :               1/02/2021
-//  Author :            Sanket Narayan Bhosale
+//  Date :               1/02/2023
+//  Author :            mohini bimarao Bhosale
 //
 /////////////////////////////////////////////////////////////
 void DisplayTable(int iNo)
